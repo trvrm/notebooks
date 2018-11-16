@@ -1,1 +1,4 @@
-#ipython_test
+# Jupyter Notebooks
+
+
+Scratchpads and explorations.
